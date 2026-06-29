@@ -1,0 +1,2 @@
+# 09e333945c8c5c11-church-ministry-appointment-sc
+Every church ministry professionals needs this — most just don't know it yet.  Compatible with all major WordPress themes and page builders. Regular security updates. Works with WordPress multisite.  ## What's Included  - Church Ministry Appointment Scheduling And Reminders — fully configured and ready to use - Clean admin settings panel with inlin
